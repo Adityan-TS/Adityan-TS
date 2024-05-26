@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UniquE-GamER-07.UniquE-GamER-07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Didot&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hii+:);+I'm+Adityan+:);" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Didot&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hii+I%27m+Adityan;+I%27m+Adityan" />
 </h1>
 
 <h3 align="center">A guy who thinks he can code 😅</h3>
